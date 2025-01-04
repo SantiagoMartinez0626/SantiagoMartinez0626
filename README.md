@@ -16,9 +16,9 @@
 </div>
 
 <!--Intro start-->
-- 🔭 Actualmente trabajando con **Docker, PHP, Symfony y MongoDB**
+- 🔭 Actualmente me desempeño en el área de **Backend y Analítica de Datos**
 
-- 🌱 Aprendiendo sobre **proyectos escalables en el área del Backend**
+- 🌱 Aprendiendo sobre **soluciones para proyectos escalables**
 
 - 🎓 Estudiante de **Ingeniería de Software**
 
