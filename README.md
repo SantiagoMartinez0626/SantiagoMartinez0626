@@ -18,12 +18,27 @@
 <!--Intro start-->
 - 🔭 Actualmente me desempeño como **Junior Backend Developer (Automation & Bots)**
 
+- 📍 Desde **Colombia**
+
 - 🎓 Estudiante de **Ingeniería de Software**
 
 - 💡 Desarrollador apasionado por crear soluciones web completas, con experiencia en **Frontend** y **Backend** bajo un enfoque **Full Stack**
 
-- 📫  ¡No dudes en contactarme! **santiago26lopez06@gmail.com**
+- 🌐 Idiomas: **Español**
+
+- 📫  ¡No dudes en contactarme! [LinkedIn](https://www.linkedin.com/in/michael-santiago-martínez-lópez-9553153b3) · **santiago26lopez06@gmail.com**
 <!--Intro end-->
+
+<!-- Stack tecnológico -->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Stack tecnológico</h2></summary>
+  </ul>
+</div>
+
+- **Backend:** Symfony, PHP, Python, API Rest
+- **Bots:** Telegram, WhatsApp, Web
+- **DevOps & Datos:** Bases de datos (SQL y NoSQL), Docker, Git
 
 <!--- stats -->
 <p align="center">
@@ -53,6 +68,5 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-----------------------------------------------------------------------
-Realizado por: [SantiagoMartinez0626](https://github.com/SantiagoMartinez0626)
-Última edición: 07/03/2026
+**Realizado por:** [SantiagoMartinez0626](https://github.com/SantiagoMartinez0626)  
+**Última edición:** 07/03/2026
